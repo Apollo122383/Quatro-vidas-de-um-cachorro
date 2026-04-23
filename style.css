@@ -6,6 +6,8 @@
     <title>Site Colorido</title>
     <style>
         /* Cor de fundo da página */
+        
+
         body {
             background-color: #f0f8ff; /* Cor de fundo suave */
             color: #333; /* Cor do texto */
@@ -14,7 +16,7 @@
 
         /* Cor do cabeçalho */
         header {
-            background-color: #4CAF50; /* Cor de fundo verde */
+            background-color: #101010; /* Cor de fundo verde */
             color: white; /* Cor do texto */
             padding: 20px;
             text-align: center;
